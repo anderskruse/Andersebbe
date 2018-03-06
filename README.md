@@ -1,3 +1,3 @@
 #Gruppemedlemmer:
-#Anderskruse
-#Sebbelicious
+#Anders - Anderskruse
+#Sebastian - Sebbelicious
