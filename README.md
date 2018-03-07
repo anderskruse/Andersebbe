@@ -7,3 +7,4 @@ TODO:
 3) Create a SQL user - officelister - with select rights on the classicmodels database
 4) Create a JDBC mysql connector which connects using that user
 5) Make a mapper which will read the employee table and return employee objects
+6) Nu laver jeg mere
